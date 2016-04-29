@@ -1,0 +1,7 @@
+com/vallen/test/dao/shared/MainDaoServiceException.class
+com/vallen/test/dao/bo/api/TestEntityBO.class
+com/vallen/test/dao/bo/api/TestEntityService.class
+com/vallen/test/dao/bo/api/TestEntityServiceException.class
+com/vallen/test/dao/bo/api/TestEntityServiceImpl.class
+com/vallen/test/dao/shared/EntityVO.class
+com/vallen/test/dao/shared/MainDaoService.class
